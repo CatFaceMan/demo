@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 nonono,you aren't!!!
-=======
 I'm iron-man
->>>>>>> 54b0a790cabdcc1017fdbb56fad76e8ee0a244b3
